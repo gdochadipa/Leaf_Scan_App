@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575652097000",
+    "firebase_url": "https://leafdetection-d071f.firebaseio.com",
+    "project_id": "leafdetection-d071f",
+    "storage_bucket": "leafdetection-d071f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575652097000:android:3caf1ad2eb1eabc8f3925d",
+        "android_client_info": {
+          "package_name": "co.ocha.leafscanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575652097000-mq98kpl0br60sarogaqklp8ser23d9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRTNnBw_Ug5OmBBEPrVIw_cSlqyH_V-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575652097000-mq98kpl0br60sarogaqklp8ser23d9hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
